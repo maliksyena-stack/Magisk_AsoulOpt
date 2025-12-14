@@ -191,6 +191,7 @@ com.netease.wyclx
 com.netease.x19
 com.netease.yhtj
 com.netease.yyslscn
+com.netease.yysls
 com.netease.yzs
 com.nexon.bluearchive
 com.nexon.kartdrift
@@ -310,4 +311,4 @@ supercell.squad
 tw.sonet.allbw
 tw.sonet.princessconnect
 xd.sce.promotion
-```
+
